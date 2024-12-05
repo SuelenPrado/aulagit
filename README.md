@@ -1,4 +1,4 @@
-# To-Do List
+# Lista de tarefas
 
 Esse é um projeto simples de lista de tarefas desenvolvido com HTML, CSS e JavaScript. Ele permite adicionar tarefas, marcar como concluídas e excluir tarefas. Além disso, as tarefas são salvas no `localStorage`, para que não sejam perdidas ao atualizar a página.
 
